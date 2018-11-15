@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AccessEditorSettingsDetailViewController.cs](./CS/WinSample.Module.Win/AccessEditorSettingsDetailViewController.cs) (VB: [AccessEditorSettingsDetailViewController.vb](./VB/WinSample.Module.Win/AccessEditorSettingsDetailViewController.vb))
+<!-- default file list end -->
 # How to handle events of editor's controls in Detail View
 
 
