@@ -12,7 +12,7 @@
 
 
 <p>This example demonstrates how to handle specific events of Property Editors and ObjectSpace, indicating changes with object in the Detail View.</p><p><strong>See Also:</strong><br />
-<a href="http://documentation.devexpress.com/#Xaf/CustomDocument2729"><u>Access Editor Settings</u></a></p>
+<a href="https://docs.devexpress.com/eXpressAppFramework/402153/getting-started/in-depth-tutorial-blazor/customize-data-display-and-view-layout/access-editor-settings"><u>Access Editor Settings</u></a></p>
 
 <br/>
 
